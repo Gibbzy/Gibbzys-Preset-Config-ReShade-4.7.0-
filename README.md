@@ -1,4 +1,7 @@
 # Gibbzys-Preset-Config-ReShade-4.7.0-
+
+(Son release of the source code)
+
 Texture improvement, Natural Lights Source and more!
 With fully customized source codes (.FH/.FHX) here is a Config for your reshade that tries to mimic some of the features that current graphics engines have naturally in Rigs of Rods for better experience in your gameplay and for your screenshots!
 
