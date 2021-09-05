@@ -1,8 +1,5 @@
 # Gibbzys-Preset-Config-ReShade-4.7.0-
 
-The ReShade FX shading language is heavily based on the DX9-style HLSL syntax, with a few extensions. For more details on HLSL, check out the Programming Guide: https://docs.microsoft.com/windows/win32/direct3dhlsl/dx-graphics-hlsl-writing-shaders-9 .
-This document will instead primarily focus on syntax and features that are unique to ReShade FX.
-
 (Son release of the source code)
 
 Texture improvement, Natural Lights Source you'll find here!
@@ -14,8 +11,10 @@ OPTIONAL
 
 Ctrl+B Tracking Rays
 
-
 Ctrl+A qUINT.ssr
 
 Installation:
 Place Zy_Config.ini into your installation directory (usually C:\Program Files\Rigs of Rods)
+
+The ReShade FX shading language is heavily based on the DX9-style HLSL syntax, with a few extensions. For more details on HLSL, check out the Programming Guide: https://docs.microsoft.com/windows/win32/direct3dhlsl/dx-graphics-hlsl-writing-shaders-9 .
+This document will instead primarily focus on syntax and features that are unique to ReShade FX.
